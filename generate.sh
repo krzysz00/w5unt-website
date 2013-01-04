@@ -1,7 +1,6 @@
 #!/bin/bash
 
 for file in *.hpartial; do
-    echo $file
     name="${file%.*}"
     cat header.html.partial > $name
     cat $file >> $name
