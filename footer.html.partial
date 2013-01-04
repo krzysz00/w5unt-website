@@ -1,4 +1,6 @@
 <hr>
 <img src="img/unt-logo.gif" alt="University of North Texas logo"></img>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 </body>
 </html>
