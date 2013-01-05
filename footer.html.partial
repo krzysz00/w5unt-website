@@ -4,6 +4,11 @@
   <div class="span6 offset3">
     <img src="img/unt-logo.gif" alt="University of North Texas logo"
          width="98" height="40"></img>
+    <br />
+    <small>
+      This website's code is released into the public domain and hosted <a href="http://github.com/krzysz00/w5unt-website/">on Github</a>. 
+      Members wishing to update the website should fork the repository and submit a pull request.
+    </small>
   </div>
 </div>
 </footer>
