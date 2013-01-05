@@ -1,6 +1,8 @@
 <div class="row">
   <div class="span6 offset3">
-    <img src="img/TAMShams-logo.png">
+    <img src="img/TAMShams-logo.png" 
+         alt="The TAMShams logo. It consists of the text &quot;W5UNT&quot; over the schematic symbol for an antenna, which is over the text &quot;TAMShams&quot;"
+         style="margin-bottom: 10px">
   </div>
 </div>
 
