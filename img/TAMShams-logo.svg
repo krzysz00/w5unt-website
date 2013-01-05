@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="250.53999"
+   height="354.33072"
+   style="fill-rule:evenodd"
+   viewBox="0 0 7070.7953 10000"
+   id="svg3037"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="TAMShams-logo.svg"
+   inkscape:export-filename="/home/krzys/Dropbox/ham-radio/w5unt-website/img/TAMShams-logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata3049"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1301"
+   inkscape:window-height="744"
+   id="namedview3047"
+   showgrid="false"
+   inkscape:zoom="1.6425333"
+   inkscape:cx="165.94957"
+   inkscape:cy="177.16536"
+   inkscape:window-x="65"
+   inkscape:window-y="24"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg3037" />
+ <defs
+   id="defs3039">
+  <style
+   type="text/css"
+   id="style3041">
+   
+    .str0 {stroke:#1F1A17;stroke-width:150}
+    .fil0 {fill:none}
+   
+  </style>
+ </defs>
+ <g
+   id="Ebene_x0020_1">
+  <g
+   id="_136923432">
+   <line
+   id="_136268008"
+   class="fil0 str0"
+   x1="3535.3501"
+   y1="1466.4301"
+   x2="3535.3501"
+   y2="7997.3501"
+   style="fill:none;stroke:#1f1a17;stroke-width:150" />
+   <polyline
+   id="_136803888"
+   class="fil0 str0"
+   points="336.7,1466.43 3535.35,5621.34 6734.01,1466.43 "
+   style="fill:none;stroke:#1f1a17;stroke-width:150" />
+  </g>
+ </g>
+<text
+   xml:space="preserve"
+   style="font-size:1016px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:705.55554896000001008px;word-spacing:0px;fill:#00ab00;fill-opacity:1;stroke:none;font-family:Sans"
+   x="343.64261"
+   y="1134.0205"
+   id="text3051"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3053"
+     x="343.64261"
+     y="1134.0205">W5UNT</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:903.11108398000010311px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ab00;fill-opacity:1;stroke:none;font-family:Sans"
+   x="824.74231"
+   y="9158.0752"
+   id="text3823"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3825"
+     x="824.74231"
+     y="9158.0752">TAMShams</tspan></text>
+</svg>
