@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" type="image/png" href="img/favicon.png">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<title>
+{% if page.title %} {{ page.title }}
+{% else %} TAMShams (W5UNT) Club Website
+{% endif %}
+</title>
+</head>
+<body>
+<div class="container">
+  <div class="navbar">
+    <span class="brand">W5UNT — TAMShams</span>
+    <nav role="navigation">
+      <ul class="nav">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="shack.html">Our Shack</a></li>
+        <li><a href="membership.html">Membership</a></li>
+        <li><a href="wifi.html">802.11 (WiFi) Information</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            External Links
+            <b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu">
+            <li><a href="http://mysite.verizon.net/res8i7b5">Website of Club Trustee (K5YBX)</a></li>
+            <li><a href="http://www.dcara.net">Denton County Amateur Radio Association</a></li>
+            <li><a href="http://www.arrl.org">American Radio Relay League</a></li>
+            <li><a href="http://www.tams.unt.edu">TAMS</a></li>
+            <li><a href="http://www.unt.edu">University of North Texas</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+  <br></br>
+  <div class="row">
+    <div class="span12">
+      {% if page.title %} <h1>{{ page.title }}</h1> {% endif %}
+      {{ content }}
+    </div>
+  </div>
+</div>
+<hr>
+<footer>
+  <div class="row">
+    <div class="span6 offset3">
+      <img src="img/unt-logo.gif" alt="University of North Texas logo"
+           width="98" height="40"></img>
+      <br />
+      <small>
+        This website's code is released into the public domain and hosted <a href="http://github.com/krzysz00/w5unt-website/">on Github</a>. 
+        Members wishing to update the website should fork the repository and submit a pull request.
+      </small>
+    </div>
+  </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</div>
+</body>
+</html>
