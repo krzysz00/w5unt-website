@@ -1,0 +1,82 @@
+<h1>TAMShams Membership Roster</h1>
+<div class="row">
+  <div class="span9">
+    <p>
+      This page contains lists of current and former members of TAMShams.
+      Regrettably, no membership records for years before 2012 exist.
+    </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span9 offset1">
+    <h2>Officers (2012-2013)</h2>
+    <p>
+      Since the club was re-activated this year, officers for 2012-2013 were appointed by the club President.
+      Elections will be held May of 2013.
+    </p>
+    <table class="table table-striped">
+      <thead>
+        <tr><th>Name</th> <th>Callsign</th> <th>Position</th> <th>Class Of</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Dr. Richard Sinclair</td> <td>K5YBX</td> <td>Trustee and Faculty Advisor</td> <td>TAMS dean</td></tr>
+        <tr><td>Krzysztof Drewniak</td> <td>KF5SOQ</td> <td>President</td> <td>2014</td></tr>
+        <tr><td>Dylan Airey</td> <td></td> <td>Vice President</td> <td>2013</td></tr>
+        <tr><td>[To be determined]</td> <td></td> <td>Treasurer</td> <td></td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span9 offset1">
+    <h2>Licensed Members</h2>
+    <table class="table table-striped">
+      <thead>
+        <tr><th>Name</th> <th>Callsign</th> <th>License Class</th> <th>Class Of</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Dr. Richard Sinclair</td> <td>K5YBX</td> <td>Extra</td> <td>TAMS dean</td></tr>
+        <tr><td>Krzysztof Drewniak</td> <td>KF5SOQ</td> <td>Technician</td> <td>2014</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span9 offset1">
+    <h2>Licensed Alumni</h2>
+    <p>
+      We'll have some next year!
+    </p>
+    <table class="table table-striped">
+      <thead>
+        <tr><th>Name</th> <th>Callsign</th> <th>License Class</th> <th>Class Of</th></tr>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="row">
+  <div class="span9 offset1">
+    <h2>Active Unlicensed Members</h2>
+    <p>
+      Inclusion on this list is subject to a determination of member activity made by the officers.
+    </p>
+    <table class="table table-striped">
+      <thead>
+        <tr><th>Name</th> <th>Class Of</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Dylan Airey</td> <td>2013</td></tr>
+        <tr><td>Ian Macaliano</td> <td>2014</td></tr>
+        <tr><td>Cody Freitag</td> <td>2013</td></tr>
+        <tr><td>Tommy Schaefer</td> <td>2014</td></tr>
+        <tr><td>Subodh Potia</td> <td>2014</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
